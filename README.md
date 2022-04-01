@@ -5,7 +5,7 @@
 - ✉️ <strong>My contact e-mail:</strong> re.sonic930@gmail.com
 - 📲 <strong>My contact phone:</strong> +551195910-4178
 
-<a href="https://www.linkedin.com/in/rennan-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rennan-nascimento/" target="_Blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_Blank"></a> 
   
 <span> 
 <img align="center" alt="Rennan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
